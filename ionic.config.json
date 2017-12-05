@@ -1,0 +1,8 @@
+{
+  "name": "mapp1",
+  "app_id": "6a6850d2",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
